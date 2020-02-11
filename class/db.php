@@ -17,9 +17,9 @@ class DB  {
         else {    
             
             $host = 'localhost';
-            $username = 'id9592484_root';
+            $username = 'id12553324_id9592484_root';
             $password = 'password';
-            $database = 'id9592484_user';
+            $database = 'id12553324_id9592484_user';
         
         }
 
