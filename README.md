@@ -1,1 +1,1 @@
-The solution was [deployed to 000webhost](https://ca2jr.000webhostapp.com/).
+The solution was [deployed to 000webhost](https://hobbyjr.000webhostapp.com/).
