@@ -8,18 +8,18 @@ class DB  {
 
         if ($namedb == "hr") {
 
-            $host = '52.50.23.197:3306';
-            $username = 'johnstudent';
-            $password = 'cct19';
+            $host = 'XX.XX.XX.XX:YYYY';
+            $username = 'user';
+            $password = 'password';
             $database = 'human_resources';
 
         }
         else {    
             
             $host = 'localhost';
-            $username = 'id12553324_id9592484_root';
+            $username = 'root';
             $password = 'password';
-            $database = 'id12553324_id9592484_user';
+            $database = 'database';
         
         }
 
