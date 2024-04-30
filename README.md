@@ -1,4 +1,4 @@
-Below I add screenshots of the webpage.
+Database contains three tables (Department, login and employees). Below I add screenshots of the webpage.
 
 ![alt_text](https://github.com/Jorge36/hobby/blob/24361b22d63af3dea7a5a68b49af801aa9f22be0/ImgWebPage/article1.png)
 
@@ -20,4 +20,4 @@ Below I add screenshots of the webpage.
 
 ![alt_text](https://github.com/Jorge36/hobby/blob/24361b22d63af3dea7a5a68b49af801aa9f22be0/ImgWebPage/report_php.png)
 
-Database contains three tables (Department, login and employees).
+
